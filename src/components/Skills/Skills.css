@@ -1,0 +1,18 @@
+.skills__list {
+  max-width: 900px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+}
+.icon-svg{
+  position: relative;
+  top: 7px;
+  color: #2978b5;
+  left: -10px;
+}
